@@ -1,0 +1,28 @@
+body{
+    background-color: #0A2033;
+}
+h1,h2{
+    color: #71CBA9;
+    text-align: center;
+    position: relative;
+    top: 25vh;
+}
+p{
+    color: #71CBA9;
+    text-align: center;
+    position: relative;
+    top: 33vh;
+    left:10px;
+}
+img{
+    width: 300px;
+    position: relative;
+    top: 35vh;
+    left: 80vh;
+}
+
+
+
+
+
+
